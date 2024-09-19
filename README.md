@@ -71,11 +71,11 @@ The full analysis is available on Google Colab. [View the Notebook](colab_link.m
 
 ## PDF Report
 
-A detailed analysis report is available in the following PDF file: [View Report]_(walmart project.pdf).
+A detailed analysis report is available in the following PDF file: [View Report](walmart project.pdf).
 
 ## Jupyter Notebook
 
-The Python code and analysis are available in the following Jupyter Notebook: [View Notebook](walmart (2).ipynb).
+The Python code and analysis are available in the following Jupyter Notebook: [View Notebook](walmart.ipynb).
 
 
 
