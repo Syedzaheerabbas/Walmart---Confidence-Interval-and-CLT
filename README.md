@@ -65,3 +65,18 @@ The analysis provided actionable insights into customer spending behaviors, reve
 
 Overall, this work helps Walmart leverage data to refine its strategies and enhance its customer experience during peak shopping periods.
 
+## Colab Notebook
+
+The full analysis is available on Google Colab. [View the Notebook](colab_link.md).
+
+## PDF Report
+
+A detailed analysis report is available in the following PDF file: [View Report]_(walmart project.pdf).
+
+## Jupyter Notebook
+
+The Python code and analysis are available in the following Jupyter Notebook: [View Notebook](walmart (2).ipynb).
+
+
+
+
