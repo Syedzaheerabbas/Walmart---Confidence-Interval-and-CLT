@@ -71,7 +71,7 @@ The full analysis is available on Google Colab. [View the Notebook](colab_link.m
 
 ## PDF Report
 
-A detailed analysis report is available in the following PDF file: [View Report](walmart project.pdf).
+A detailed analysis report is available in the following PDF file: [View Report](walmart_project.pdf).
 
 ## Jupyter Notebook
 
